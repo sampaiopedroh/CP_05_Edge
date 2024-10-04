@@ -18,25 +18,6 @@
 - Placa de prototipagem (opcional)
 
 
--> Esquema de Conexão:
-  Conecte os componentes ao ESP32 conforme o diagrama abaixo:
-ESP32
-      +-----+
-      |     |
-   D4 | DHT |
-      |     |
-      +-----+
-      |     |
-  3.3V| VCC |
-      |     |
-   GND| GND |
-      +-----+
-      |     |
-  LDR | A0  |
-      |     |
-      +-----+
-
-
 -> Instruções de Configuração:
 - Configurações do Projeto:
   + Abra o arquivo .ino do projeto no Arduino IDE.
